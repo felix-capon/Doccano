@@ -1,7 +1,3 @@
-Of course! Here's the updated README file without the hosting details:
-
----
-
 # Doccano Project Setup
 
 This README file contains instructions to set up and run the Doccano project on your local computer.
